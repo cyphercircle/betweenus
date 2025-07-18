@@ -1,6 +1,8 @@
 package com.larvalabs.betweenus.client;
 
 import retrofit.RestAdapter;
+import java.io.*;
+import java.modules.*;
 
 /**
  *
